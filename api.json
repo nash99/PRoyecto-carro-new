@@ -1,0 +1,72 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "ThinkPad X1",
+        "marca": "lenovo",
+        "categoria": "computadores",
+        "precio": 1399990,
+        "cantidad": 0,
+        "stock": 3,
+        "alerta": ""
+    },
+    {
+        "codigo": 2,
+        "nombre": "MacBook Pro 14",
+        "marca": "apple",
+        "categoria": "computadores",
+        "precio": 1899990,
+        "cantidad": 0,
+        "stock": 5,
+        "alerta": ""
+    },
+    {
+        "codigo": 3,
+        "nombre": "MacBook Air 13",
+        "marca": "apple",
+        "categoria": "computadores",
+        "precio": 1349990,
+        "cantidad": 0,
+        "stock": 10,
+        "alerta": ""
+    },
+    {
+        "codigo": 4,
+        "nombre": "ThinkPad L13",
+        "marca": "lenovo",
+        "categoria": "computadores",
+        "precio": 899990,
+        "cantidad": 0,
+        "stock": 20,
+        "alerta": ""
+    },
+    {
+        "codigo": 5,
+        "nombre": "Galaxy Book2 Pro",
+        "marca": "samsung",
+        "categoria": "computadores",
+        "precio": 1199990,
+        "cantidad": 0,
+        "stock": 15,
+        "alerta": ""
+    },
+    {
+        "codigo": 6,
+        "nombre": "Galaxy Book2",
+        "marca": "samsung",
+        "categoria": "computadores",
+        "precio": 579990,
+        "cantidad": 0,
+        "stock": 30,
+        "alerta": ""
+    },
+    {
+        "codigo": 7,
+        "nombre": "Samsung galaxy s22",
+        "marca": "samsung",
+        "categoria": "celulares",
+        "precio": 599990,
+        "cantidad": 0,
+        "stock": 30,
+        "alerta": ""
+    }
+]
